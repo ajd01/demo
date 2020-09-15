@@ -1,8 +1,8 @@
 {
   "families": [
-    { "id": 1, "name": "Robinson", memebersIds: [1,2,3,4] },
-    { "id": 2, "name": "Monson", memebersIds: [5, 6, 7] },
-    { "id": 3, "name": "Lemus", memebersIds: [8, 9, 10] }
+    { "id": 1, "name": "Robinson", "memebersIds": [1,2,3,4] },
+    { "id": 2, "name": "Monson", "memebersIds": [5, 6, 7] },
+    { "id": 3, "name": "Lemus", "memebersIds": [8, 9, 10] }
   ],
   "memebers": [
     { "id": 1, "name": "Clara", "title": "Mother" },
